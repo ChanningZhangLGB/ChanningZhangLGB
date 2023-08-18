@@ -2,13 +2,13 @@
 
 Here are some brief introductions to get you know me:
 
-🔭 I’m currently working on machine learning, deep learning and few-shot learning application.
+🔭 I am currently working on machine learning application for security and privacy evaluation of crowdsourcing systems.
 
-🌱 I’m a currently master student at Xidian University.
+🌱 I am a currently PhD student and graduate research assistant at the University of Tulsa.
 
-😄 I’m desperate to development more valuable utilization of machine learning in solving real-world problems.
+😄 I am desperate to development more valuable utilization of machine learning in solving real-world problems.
 
-📫 Email: channinglgb@gmail.com/channinglgb@163.com
+📫 Email: channinglgb@gmail.com/daz4358@utulsa.edu
 
 
 <!--
