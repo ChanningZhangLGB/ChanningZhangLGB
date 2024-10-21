@@ -2,11 +2,11 @@
 
 Here are some brief introductions to get you know me:
 
-🔭 I am currently working on machine learning application for security and privacy evaluation of crowdsourcing systems.
+🔭 I am currently a PhD student and graduate research assistant in the University of Tulsa, School of Cyber Studies under supervison of Dr. Weiping Pei (https://weipingpei.github.io/).
 
-🌱 I am a currently PhD student and graduate research assistant at the University of Tulsa.
+🌱 I am currently working on research in crowdsourcing, privacy and security, software engineering.
 
-😄 I am desperate to development more valuable utilization of machine learning in solving real-world problems.
+😄 Our research care about how people interact with computer and mobile apps in modern era and aims at improving user data security level. 
 
 📫 Email: channinglgb@gmail.com/daz4358@utulsa.edu
 
