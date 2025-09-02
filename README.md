@@ -8,7 +8,7 @@ Here are some brief introductions to get you know me:
 
 😄 Our research care about how people interact with computer and mobile apps in modern era and aims at improving user data security level. 
 
-📫 Email: channinglgb@gmail.com/daz4358@utulsa.edu
+📫 Email: daz4358@utulsa.edu
 
 
 <!--
