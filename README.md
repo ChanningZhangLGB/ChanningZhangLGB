@@ -6,7 +6,7 @@ A little about me:
 
 🌱 I work on LLM inference-time adaptation, crowdsourcing, privacy and security, and software engineering.
 
-😄 My research focuses on building reliable, efficient human-AI collaboration frameworks for crowdsourcing and safety-oriented agentic pipelines for LLM self-improvement.
+🧑‍💻 My research focuses on building reliable, efficient human-AI collaboration frameworks for crowdsourcing and safety-oriented agentic pipelines for LLM self-improvement.
 
 📫 Email: daz4358@utulsa.edu
 
