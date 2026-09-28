@@ -1,14 +1,15 @@
 ### Hi there 👋
 
-Here are some brief introductions to get you know me:
+A little about me:
 
-🔭 I am currently a PhD student and graduate research assistant in the University of Tulsa, School of Cyber Studies under supervison of Dr. Weiping Pei (https://weipingpei.github.io/).
+🔭 I'm a Ph.D. student and graduate research assistant in the School of Cyber Studies at The University of Tulsa, advised by [Dr. Weiping Pei](https://weipingpei.github.io/).
 
-🌱 I am currently working on research in LM inference-time adaptation, crowdsourcing, privacy and security, software engineering.
+🌱 I work on LLM inference-time adaptation, crowdsourcing, privacy and security, and software engineering.
 
-😄 Our research care about how people interact with computer and mobile apps in modern era and aims at improving user data security level. 
+😄 My research focuses on building reliable, efficient human-AI collaboration frameworks for crowdsourcing and safety-oriented agentic pipelines for LLM self-improvement.
 
 📫 Email: daz4358@utulsa.edu
+
 
 
 <!--
